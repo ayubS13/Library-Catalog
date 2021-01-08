@@ -71,6 +71,17 @@ Netbeans and JavaFX was used to create the graphical user interface.
 ![MAIN_SCREEN](README-images/removeLibraryBook.gif)
 
 ---
+
+#### The Librarian has a search bar that he can use to search for books in the database.
+![MAIN_SCREEN](README-images/searchBook.gif)
+
+---
+
+#### The Librarian has the option to sort through books based on the genre.
+![MAIN_SCREEN](README-images/sortBookGenres.gif)
+
+---
+
 ## Author Info
 
 * LinkedIn - [Ayub Shahab](https://www.linkedin.com/in/ayub-shahab-98b950202/)

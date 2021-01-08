@@ -82,19 +82,29 @@ Netbeans and JavaFX was used to create the graphical user interface.
 
 ---
 
-#### The Librarian can also sort the various books in the databse by their Name, Author, or ISBN number.
+#### The Librarian can also sort the various books in the databse by their Title, Author's Last Name, or ISBN number.
 ![MAIN_SCREEN](README-images/sortNameDateTitle.gif)
 
 ---
 
 
 #### The user login terminal is seperate from the Librarian and is visualized in the following image.
-![MAIN_SCREEN](README-images/userLogin.jpg)
+![MAIN_SCREEN](README-images/userLoginScreen.jpg)
 
 ---
 
 #### When the user enters the correct username and password, he goes to the following user homepage.
 ![MAIN_SCREEN](README-images/userLoginHomepage.gif)
+
+---
+
+#### Aside from adding or removing books from the library, the user also has the same abilities as the Librarian. The user can click through all the different books in the database as well as group them by their respective genres. The user also has the ability to sort the books by Title, Author's Last Name, or the ISBN number.
+![MAIN_SCREEN](README-images/userSortAll.gif)
+
+---
+
+#### If the user desires to update his personal info, then he can do so by inputting the up to date info in their respective fields. 
+![MAIN_SCREEN](README-images/updateUserInfo.gif)
 
 ---
 

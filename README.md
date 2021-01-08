@@ -87,6 +87,11 @@ Netbeans and JavaFX was used to create the graphical user interface.
 
 ---
 
+#### When the user enters the correct username and password, he goes to the following user homepage.
+![MAIN_SCREEN](README-images/userLoginHomepage.gif)
+
+---
+
 ## Author Info
 
 * LinkedIn - [Ayub Shahab](https://www.linkedin.com/in/ayub-shahab-98b950202/)

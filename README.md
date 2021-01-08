@@ -87,6 +87,12 @@ Netbeans and JavaFX was used to create the graphical user interface.
 
 ---
 
+
+#### The user login terminal is seperate from the Librarian and is visualized in the following image.
+![MAIN_SCREEN](README-images/userLogin.jpg)
+
+---
+
 #### When the user enters the correct username and password, he goes to the following user homepage.
 ![MAIN_SCREEN](README-images/userLoginHomepage.gif)
 

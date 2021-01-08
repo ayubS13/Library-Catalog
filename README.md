@@ -47,6 +47,11 @@ Netbeans and JavaFX was used to create the graphical user interface.
 
 ---
 
+#### If the input data is valid, then an account for the respective individual is made. The following shows account creation for a user, however the process would be the same for a Librarian.
+![MAIN_SCREEN](README-images/addUserAccount.jpg)
+
+---
+
 #### The Librarian has the ability to add books to the database by inputting the corresponding attributes of a respective book.
 ![MAIN_SCREEN](README-images/addBook.gif)
 

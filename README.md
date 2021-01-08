@@ -42,8 +42,8 @@ Netbeans and JavaFX was used to create the graphical user interface.
 
 ---
 
-#### If a Librarian or User do not have existing accounts, the do have the option to make one. The Librarian and User share the same "Acount Creation" page and input the same information. However, the creation page accessed through the Librarian terminal adds a new Librarian account to the database.
-![MAIN_SCREEN](README-images/createAdminUserAccoutn.jpg)
+#### If a Librarian or User do not have existing accounts, they do have the option to make one. The Librarian and User share the same "Acount Creation" page and input the same information. However, the creation page accessed through the Librarian terminal adds a new Librarian account to the database.
+![MAIN_SCREEN](README-images/createAdminUserAccount.jpg)
 
 ---
 

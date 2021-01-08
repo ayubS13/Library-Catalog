@@ -52,6 +52,11 @@ Netbeans and JavaFX was used to create the graphical user interface.
 
 ---
 
+#### The Librarian has the ability to check out books to users as well as add them back to the database once the book is returned and the due date has passed.
+![MAIN_SCREEN](README-images/librarianAddRemoveBooks.gif)
+
+---
+
 #### The Librarian has the ability to add books to the database by inputting the corresponding attributes of a respective book.
 ![MAIN_SCREEN](README-images/addBook.gif)
 

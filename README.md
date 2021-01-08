@@ -82,6 +82,11 @@ Netbeans and JavaFX was used to create the graphical user interface.
 
 ---
 
+#### The Librarian can also sort the various books in the databse by their Name, Author, or ISBN number.
+![MAIN_SCREEN](README-images/sortNameDateTitle.gif)
+
+---
+
 ## Author Info
 
 * LinkedIn - [Ayub Shahab](https://www.linkedin.com/in/ayub-shahab-98b950202/)

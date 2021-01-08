@@ -47,13 +47,18 @@ Netbeans and JavaFX was used to create the graphical user interface.
 
 ---
 
+#### After loggin in with the correct username and password, the Librarian goes to the following Homepage which lists all the books and users in the database.
+![MAIN_SCREEN](README-images/librarianHomepage.jpg)
+
+---
+
 #### If the input data is valid, then an account for the respective individual is made. The following shows account creation for a user, however the process would be the same for a Librarian.
 ![MAIN_SCREEN](README-images/addUserAccount.jpg)
 
 ---
 
 #### The Librarian has the ability to check out books to users as well as add them back to the database once the book is returned and the due date has passed.
-![MAIN_SCREEN](README-images/librarianAddRemoveBooks.gif)
+![MAIN_SCREEN](README-images/librarianAddRemoveBooks2.gif)
 
 ---
 
